@@ -71,10 +71,13 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 
 ## BLOCK DIAGRAM
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9c89cf60-40f5-455b-b6fe-6cd5850fdde9" />
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/32c7c1cb-395a-414e-92be-e86b122c7977" />
+
 
 ## CONNECTION DIAGRAM  
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/4b89fb00-7d32-4ba4-ac28-4c1c160fe024" />
+
 **Setting up a Digital Link**
 
 *(Insert connection diagram here)*
@@ -82,6 +85,8 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 ---
 
 ## TABULATION  
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a931661b-37b3-4220-820b-8a39e88aec0c" />
+
 **Transmission through Digital Link**
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
@@ -89,11 +94,9 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 |                |                              |              |            |
 
 ---
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e02f2241-eb42-4ff6-9b5d-8fc23d5f9192" />
 
 ## MODEL GRAPH
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/21ad4045-bd45-4ecc-a5c9-15c5f50e4eeb" />
 
 
 ---
